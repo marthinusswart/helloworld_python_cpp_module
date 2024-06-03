@@ -2,3 +2,5 @@ build/CMakeFiles
 build/pybind11
 pybind11
 
+lib/helloworld_lib.so
+build/helloworld_python.cpython-38-x86_64-linux-gnu.so
