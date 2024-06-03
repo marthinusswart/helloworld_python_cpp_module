@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.4)
+project(helloworld_python)
+add_subdirectory(pybind11)
+pybind11_add_module(helloworld_python Helloworld_Python.cpp)
